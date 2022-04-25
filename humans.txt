@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rustenis Tolpeznikas -- I have created this website mostly from scratch,
+    only utilizing the boilerplate provided by the WebStorm team.
+    rustenis.com
 
 # THANKS
 
-    <name>
+    Luke Smith, bloke from youtube, who has inspired me to create a website
+    about myself, rather than using services provided by huge corporations,
+    whose practices I do not support.
 
-# TECHNOLOGY COLOPHON
-
-    CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    JetBrains, for creating awesome IDEs.
